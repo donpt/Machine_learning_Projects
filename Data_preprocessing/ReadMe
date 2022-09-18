@@ -1,0 +1,7 @@
+Code in PYTHON
+
+Data pre-processing tools: 
+1.Taking care of missing data using mean.
+2.Encoding categorical data using both ( OneHotEncoding & LabelEncoder).
+3.Splitting data into Training and Test set.
+4.Feature Scaling.
