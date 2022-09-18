@@ -1,2 +1,2 @@
 # machine_learning_projects
-Machine learning projects and different models implemented.
+Machine learning projects and different models and tools.
