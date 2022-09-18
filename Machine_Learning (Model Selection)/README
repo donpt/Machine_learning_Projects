@@ -1,0 +1,9 @@
+Machine Learning templates for classification and regression to select best model to work with for your data, efficiently.
+
+USE: For you to find the best model to work with for a given dataset you need to try all of them and find the one with the best accuracy.
+These Classification and Regression model templates are designed in a way for you to only plug in your dataset and run
+various models to see which one has the best accuracy score, pick one and fine tune to work with on your dataset.
+
+!! Templates assume:
+x --> is all columns excluding last.
+y --> is in last column.
