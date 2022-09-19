@@ -1,2 +1,5 @@
 # machine_learning_projects
-Machine learning projects and different models and pre-processing tools.
+Machine learning projects, different models and data pre-processing tools.
+
+ALL CODE IS IN PYTHON.
+
